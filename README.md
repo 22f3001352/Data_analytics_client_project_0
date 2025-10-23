@@ -1,6 +1,6 @@
 # Client Project: Interactive Data Visualization Dashboard
 
-![Data to Dashboard Showcase](https://i.imgur.com/gD5Z2L7.png)
+![Data to Dashboard Showcase]
 
 This repository showcases a client-based project focused on transforming raw data into an insightful and interactive data visualization using Tableau. The project involved comprehensive data cleaning, manipulation, and processing to derive meaningful insights and present them in a user-friendly dashboard.
 
@@ -31,7 +31,7 @@ The final output is a powerful, interactive Tableau dashboard that allows the cl
 ### Dashboard Preview
 
 <a href="https://public.tableau.com/app/profile/rishav.kumar2381/viz/UAE_16718736258460/Dashboard1" target="_blank">
-  <img src="YOUR_DASHBOARD_SCREENSHOT_FILENAME.png" alt="Dashboard Preview" style="width:100%;">
+  <img src="Dashboard.png" alt="Dashboard Preview" style="width:100%;">
 </a>
 
 **➡️ [Click here to interact with the live dashboard on Tableau Public](https://public.tableau.com/app/profile/rishav.kumar2381/viz/UAE_16718736258460/Dashboard1)**
