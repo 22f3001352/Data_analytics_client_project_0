@@ -1,7 +1,5 @@
 # Client Project: Interactive Data Visualization Dashboard
 
-![Data to Dashboard Showcase]
-
 This repository showcases a client-based project focused on transforming raw data into an insightful and interactive data visualization using Tableau. The project involved comprehensive data cleaning, manipulation, and processing to derive meaningful insights and present them in a user-friendly dashboard.
 
 ***
